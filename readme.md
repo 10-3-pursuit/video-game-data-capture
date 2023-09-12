@@ -1,5 +1,8 @@
 # INSTRUCTIONS
 
+
+![Lara Croft - peakpx](./assets/lara-croft-peakpx.jpg)
+
 You have the option to complete two functions. 
 
 Start with the `findGamesByGenre` question which we will go over in class. 
