@@ -4,7 +4,7 @@
 <img src = "./assets/lara-croft-peakpx.jpg" alt="Lara Croft - peakpx" width="350">
 <!--![Lara Croft - peakpx](./assets/lara-croft-peakpx.jpg)-->
 
-You have the option to complete two functions. 
+__You have the option to complete two functions.__
 
 Start with the `findGamesByGenre` question which we will go over in class. 
 
