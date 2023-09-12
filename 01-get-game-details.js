@@ -1,4 +1,4 @@
-const data = require('./data/videos.json')
+const videoData = require('./data/videos.json')
 
 
 /**
