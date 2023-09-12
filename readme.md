@@ -5,7 +5,7 @@
 <!--![Lara Croft - peakpx](./assets/lara-croft-peakpx.jpg)-->
 
 ### You have the option to complete two functions.
-Data for these games is located in the `data` folder.<br /> 
+Data that represents the `gamesArray` parameter is located in the `data` folder.<br /> 
 **Please do not hard code data in your functions!**
 
 Start with the `findGamesByGenre` question, which we will go over in class. If you have time leftover, or in your spare time, complete the `getGameDetails` function.
