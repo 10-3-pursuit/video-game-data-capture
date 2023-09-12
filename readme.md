@@ -10,8 +10,9 @@ Data for these games is located in the `data` folder.<br />
 
 Start with the `findGamesByGenre` question, which we will go over in class. If you have time leftover, or in your spare time, complete the `getGameDetails` function.
 
-#### Installation 
 --------------
+
+#### Installation:
 
 1. Fork and clone this repository into your `module-one` folder
 
