@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Celestial Quest: Lila's Journey",
+    "developer": {
+      "name": "MysticMoon Games",
+      "location": {
+        "country": "UK",
+        "city": "London"
+      }
+    },
+    "genres": ["Adventure", "RPG", "Fantasy"],
+    "features": {
+      "multiplayer": {
+        "online": true,
+        "maxPlayers": 4
+      },
+      "gameModes": ["Story Mode", "Magic Duels", ["Mystic Puzzles", "Realm Exploration"]],
+      "VRSupported": false
+    },
+    "ratings": {
+      "IGN": 9.3,
+      "GameSpot": 9.0
+    },
+    "releaseYear": 2023,
+    "isExclusive": true,
+    "protagonist": {
+      "name": "Lila",
+      "background": "A young mage from the Celestial Realm seeking to uncover ancient secrets and save her world."
+    }
+  },
+  {
+    "title": "Futuristic City Racers",
+    "developer": {
+      "name": "SpeedTech Studios",
+      "location": {
+        "country": "USA",
+        "city": "Los Angeles"
+      }
+    },
+    "genres": ["Racing", "Simulation", "Open World"],
+    "features": {
+      "multiplayer": {
+        "online": true,
+        "maxPlayers": 16
+      },
+      "gameModes": ["Time Trial", "Championship", ["Custom Race", "Challenge Mode"]],
+      "VRSupported": false
+    },
+    "ratings": {
+      "IGN": 9.1,
+      "GameSpot": 8.8
+    },
+    "releaseYear": 2023,
+    "isExclusive": false
+  }
+]
