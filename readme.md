@@ -8,7 +8,9 @@
 Data that represents the `gamesArray` parameter is located in the `data` folder.<br /> 
 **Please do not hard code data in your functions!**
 
-Start with the `findGamesByGenre` question, which we will go over in class. If you have time leftover, or in your spare time, complete the `getGameDetails` function.
+Start with the `findGamesByGenre` question, which we will go over in class. If you have time leftover, or in your spare time, complete the `getGameDetails` function. 
+
+**Study the data first, before attempting to complete your functions**
 
 --------------
 
