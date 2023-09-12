@@ -5,6 +5,8 @@
 <!--![Lara Croft - peakpx](./assets/lara-croft-peakpx.jpg)-->
 
 ### You have the option to complete two functions.
+Data for these games is located in the data folder. 
+**Please do not hard code data in your functions**
 
 Start with the `findGamesByGenre` questionm which we will go over in class. 
 
