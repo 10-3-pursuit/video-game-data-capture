@@ -3,6 +3,8 @@ const videoData = require('./data/videos.json')
 
 /**
  * Constructs a numbered list string with game titles, release years, and protagonist details.
+ * ONLY USE FOR LOOPS TO SOLVE THIS FUNCTION
+ * YOU Are not allowed to use higher order methods
  *
  * @param {Array} gamesArray - The array containing game data.
  * @returns {string} - A numbered list string for games with available protagonist details.

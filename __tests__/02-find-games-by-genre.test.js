@@ -19,3 +19,15 @@ describe('findGamesByGenre function', () => {
     expect(result).toEqual(expectedOutput);
   });
 });
+
+describe('findGamesByGenre implementation details', () => {
+    it('should not use higher-order methods like map, filter, or reduce', () => {
+      const functionAsString = findGamesByGenre.toString();
+  
+      const forbiddenMethods = ['map', 'filter', 'reduce', 'forEach'];
+  
+      forbiddenMethods.forEach(method => {
+        expect(functionAsString.includes(method)).toBe(false);
+      });
+    });
+  });
