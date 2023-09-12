@@ -1,7 +1,7 @@
 # INSTRUCTIONS
 
 
-<img src = "./assets/lara-croft-peakpx.jpg" alt="Lara Croft - peakpx" width="200">
+<img src = "./assets/lara-croft-peakpx.jpg" alt="Lara Croft - peakpx" width="350">
 <!--![Lara Croft - peakpx](./assets/lara-croft-peakpx.jpg)-->
 
 You have the option to complete two functions. 
