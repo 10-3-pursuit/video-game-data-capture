@@ -6,9 +6,9 @@
 
 ### You have the option to complete two functions.
 
-Start with the `findGamesByGenre` question which we will go over in class. 
+Start with the `findGamesByGenre` questionm which we will go over in class. 
 
-If you have time or in your spare time, complete the `getGameDetails` function.
+If you have time leftover, or in your spare time, complete the `getGameDetails` function.
 
 
 1. Fork and clone this repository into your `module-one` folder
