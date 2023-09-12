@@ -21,7 +21,7 @@
  * // Expected output: ["Celestial Quest: Lila's Journey"]
  */
 function findGamesByGenre(gamesArray, genre) {
-
+    let result = []
     // NAIVE SOLUTION
     for (let i = 0; i < gamesArray.length; i++) {
         let game = gamesArray[i];
@@ -34,7 +34,7 @@ function findGamesByGenre(gamesArray, genre) {
         }
     }
 
-
+    return result;
     // HIGHER ORDER METHODS SOLUTION
     // return gamesArray
     //   .filter(game => game.genres.includes(genre))
