@@ -52,5 +52,34 @@
     },
     "releaseYear": 2023,
     "isExclusive": false
-  }
+  },
+  {
+    "title": "Ocean's Whisper: Ariel's Legacy",
+    "developer": {
+      "name": "DeepBlue Studios",
+      "location": {
+        "country": "Australia",
+        "city": "Sydney"
+      }
+    },
+    "genres": ["Adventure", "Puzzle", "Fantasy"],
+    "features": {
+      "multiplayer": {
+        "online": true,
+        "maxPlayers": 6
+      },
+      "gameModes": ["Story Mode", "Treasure Hunt", ["Puzzle Challenge", "Realm Exploration"]],
+      "VRSupported": true
+    },
+    "ratings": {
+      "IGN": 9.4,
+      "GameSpot": 9.2
+    },
+    "releaseYear": 2024,
+    "isExclusive": true,
+    "protagonist": {
+      "name": "Ariel",
+      "background": "A mermaid princess set out to reclaim her kingdom's lost relics and unveil the mysteries of the ocean."
+    }
+  }  
 ]
